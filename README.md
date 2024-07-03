@@ -1,4 +1,4 @@
-# Housepoints Project
+![image](https://github.com/Hashezm/IAA-HousePoints/assets/76060515/d11048b0-c4ae-4bc8-9cdd-a8ad98bc808f)# Housepoints Project
 
 ## Team Members
 - Hashem (me) (Backend, Database, Server)
@@ -42,6 +42,12 @@ The Housepoints project was developed by a team of four students to create a rel
 - **Admin Panel**: Log in as an admin to manage house points for students and houses.
 - **Search**: Search for house points by house or student.
 - **Leaderboards**: View and filter leaderboards based on the IB learning profiles.
+
+## screenshots from application
+![image](https://github.com/Hashezm/IAA-HousePoints/assets/76060515/adffb1a0-aeda-4837-a673-48165bdade4c)
+![image](https://github.com/Hashezm/IAA-HousePoints/assets/76060515/fa1bda62-19bd-4345-bd70-0c2fcaad2178)
+![image](https://github.com/Hashezm/IAA-HousePoints/assets/76060515/6c969e3f-4053-417a-9344-c77a1aa8f2bc)
+![image](https://github.com/Hashezm/IAA-HousePoints/assets/76060515/3b0ce08c-06a7-4861-82f6-5c3806b48b84)
 
 ## Contribution
 Feel free to fork this project, submit pull requests, and report any issues. Contributions are welcome!
